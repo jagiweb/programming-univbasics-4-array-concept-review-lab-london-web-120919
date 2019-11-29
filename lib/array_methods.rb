@@ -5,6 +5,7 @@ def find_element_index(array, value_to_find)
   length.times do |index|
     array[index].find(value to find)
   end
+  array1
 end
 
 def find_max_value(array)

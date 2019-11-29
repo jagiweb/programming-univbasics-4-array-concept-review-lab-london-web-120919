@@ -10,7 +10,7 @@ def find_max_value(array)
     if max_value < array[index]
       then max_value = array[index]
   end
-  puts max_value
+  p max_value
 end
 
 def find_min_value(array)
